@@ -1,0 +1,48 @@
+.container{
+    height: 650px;
+    margin-top: 10px;
+    border-radius: 15px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: hotpink;
+    
+}
+.textarea{
+    margin-left:500px;
+    border: 2px solid black;
+    margin-top: 20px;
+    border-radius: 8px;
+    width: 534px;
+    height: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-size: larger;
+    background-color: #37b6d6;
+}
+.textarea:hover{
+    border-color: hotpink;
+}
+li{
+    margin-left:460px;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-style: italic;
+    word-wrap: break-word;
+    width: 530px;
+    font-size: large;
+}
+.add-btn{
+    margin-left:645px;
+    width: 250px;
+    height: 35px;
+    border-radius: 8px;
+    background-color: #31d678;
+}
+.deletebtn{
+    margin-left:600px;
+    width: 250px;
+    height: 35px;
+    border-radius: 8px;
+    background-color: Red;
+    color: white;
+}
